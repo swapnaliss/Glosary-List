@@ -1,0 +1,94 @@
+{
+    "items":[
+        {
+          "serialNumber":1,
+          "name":"Rice",
+          "quantity":5,
+          "unit":"Kg",
+          "Department":"Grains",
+          "Notes":"Good Quality"
+          
+        },
+        {
+            "serialNumber":2,
+          "name":"Wheat",
+          "quantity":5,
+          "unit":"Kg",
+          "Department":"Grains",
+          "Notes":"Good Quality",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":3,
+          "name":"Potatos",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":4,
+          "name":"Carrot",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Farm Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":5,
+          "name":"Cucumber",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Vegitables",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":6,
+          "name":"Butter",
+          "quantity":500,
+          "unit":"gm",
+          "Department":"Dairy",
+          "Notes":"Amul",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":7,
+          "name":"Milk",
+          "quantity":1,
+          "unit":"L",
+          "Department":"Dairy",
+          "Notes":"Amul",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":8,
+          "name":"Apple",
+          "quantity":1,
+          "unit":"Kg",
+          "Department":"Fruits",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":9,
+          "name":"Poha",
+          "quantity":2,
+          "unit":"Kg",
+          "Department":"Grains",
+          "Notes":"Good Quality",
+          "Bought":"<input type='checkbox'>"
+        },
+        {
+            "serialNumber":10,
+          "name":"Bread",
+          "quantity":1,
+          "unit":"packet",
+          "Department":"Backery",
+          "Notes":"Fresh",
+          "Bought":"<input type='checkbox'>"
+        }
+    ]
+}
